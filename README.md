@@ -24,8 +24,8 @@ The objective of this project is to apply basic programming concepts like functi
 
 ## How to Run the Project
 1. Install Python (if not already installed)
-2. Download or clone this repository
-3. Open terminal/command prompt
+2. Download this repository
+3. Open the python file from downloads using python
 
 
 ## Challenges Faced
@@ -43,5 +43,5 @@ The objective of this project is to apply basic programming concepts like functi
 ## Project By:
 - Pranjal Shahi 
 - 25BCE10195
-- BTech in CSE CORE
+- B.Tech in CSE CORE
 - First Year
